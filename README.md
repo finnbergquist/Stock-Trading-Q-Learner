@@ -15,10 +15,9 @@ Using Q-Learner reinforcement learning algorithms to trade stocks in and out of 
 
 
 <h5>
-Check out some of our other projects!
+Check out one of our other projects!
 
 Neural Network Trading Strategy: https://github.com/finnbergquist/Stock-Trader-Neural-Net
 
-Technical Trading Strategy:
   
   </h5>
